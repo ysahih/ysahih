@@ -1,1 +1,1 @@
-[![ysahih's 42 stats](https://badge.mediaplus.ma/binary/ysahih)](https://github.com/ysahih/badge42)
+<img src="https://github-readme-stats.vercel.app/api?username=ysahih&count_private=true&show_icons=true&theme=vue-dark"/>
