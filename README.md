@@ -1,2 +1,21 @@
+<h1 align="center">👋 Hello, I'm Ucef!</h1>
 
-<p align="center"> <img src="https://badge.mediaplus.ma/greenbinary/ysahih)](https://github.com/oakoudad/badge42" alt="ysahih" /> </p><br/>
+🌐 Welcome to my GitHub profile. 
+
+I'm currently a student at 1337 School..
+
+I'm working on my final project focusing on web development.
+
+I have a deep passion for creating dynamic and engaging web applications that combine functionality with sleek design.
+
+---
+
+<div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ysahih" alt="ysahih's 42 stats" /></a></div>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/youssef-sahih/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/uc3f.02/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://twitter.com/uc3f02"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+  </p>
+  
+   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysahih&layout=compact&theme=radical" alt="ysahih" /> </p><br/>
