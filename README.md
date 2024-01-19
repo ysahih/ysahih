@@ -6,7 +6,7 @@ I'm currently a student at 1337 School..
 
 I'm working on my final project focusing on web development.
 
-I have a deep passion for creating dynamic and engaging web applications that combine functionality with sleek design.
+I'm passionate web developer with a strong background in C/C++, problem-solving, and a drive for continuous learning.
 
 ---
 
