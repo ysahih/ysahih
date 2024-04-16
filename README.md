@@ -10,6 +10,8 @@ I'm a passionate web developer with a strong background in C/C++, problem-solvin
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ysahih&label=Profile%20views&color=0e75b6&style=flat" alt="ysahih" /> </p>
+
 <div align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ysahih" alt="ysahih's 42 stats" /></a></div>
 
 <p align="center">
