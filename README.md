@@ -15,4 +15,6 @@ I'm a passionate web developer with a strong background in C/C++, problem-solvin
     <a href="https://twitter.com/uc3f02"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
   </p>
   
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysahih&layout=compact&theme=radical" alt="ysahih" /> </p><br/>
+   <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysahih&layout=compact&theme=radical" alt="ysahih" /> </p><br/>-->
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysahih&exclude_repo=coworkinn-deploy,portfolio-deploy,watch-ecommerce,photography-portfolio,web-projects&langs_count=18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
