@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Ucef!</h1>
+<h1 align="center">👋 Hello!</h1>
 
 🌐 Welcome to my GitHub profile. 
 
